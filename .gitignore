@@ -131,3 +131,4 @@ dmypy.json
 
 # Ignore data folder contents
 data/*
+swift/*.csv
